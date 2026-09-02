@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.py[cod]
+submission.tar.gz
+replay*.json
+data/
+logs/
+replays/
+
